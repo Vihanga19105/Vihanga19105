@@ -1,4 +1,4 @@
-
+![My GitHub Banner](bannerGit.jpg)
 # Hi there! 👋 I'm Vihanga Pathirana
 
 ### Software Engineering Graduate | Full-Stack Developer
